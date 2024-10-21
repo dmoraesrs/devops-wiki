@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# DevOps Wiki - Comunidade TILabs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Bem-vindo à Wiki DevOps
 
-## Commands
+Esta wiki foi criada para organizar e compartilhar conhecimentos relacionados a práticas DevOps e SRE. Explore as seções e encontre informações úteis para sua jornada!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Navegue pelas Páginas
+- [SRE I](sre/sre1.md)
+- [SRE II](sre/sre2.md)
+- [SRE III](sre/sre3.md)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Sobre a Comunidade
+A Comunidade TILabs é dedicada a incentivar o aprendizado contínuo e a colaboração entre profissionais de tecnologia.
