@@ -10,6 +10,8 @@ theme:
     - toc.integrate
     - search.highlight  # Realçar termos na pesquisa
     - search.suggest    # Sugestões de pesquisa
+extra_css:
+  - assets/custom.css
 extra:
   social:
     - icon: fontawesome/brands/github
