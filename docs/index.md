@@ -11,3 +11,7 @@ Esta wiki foi criada para organizar e compartilhar conhecimentos relacionados a 
 
 ## Sobre a Comunidade
 A Comunidade TILabs é dedicada a incentivar o aprendizado contínuo e a colaboração entre profissionais de tecnologia.
+
+![DevOps](assets/logo.png)
+
+[![Vídeo sobre DevOps](https://img.youtube.com/vi/seu-video-id/0.jpg)](https://www.youtube.com/watch?v=seu-video-id)
