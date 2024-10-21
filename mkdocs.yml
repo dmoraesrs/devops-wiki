@@ -1,12 +1,26 @@
 site_name: 'DevOps Wiki - Comunidade TILabs'
 theme:
   name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'cyan'
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dmoraesrs/devops-wiki
+    - icon: fontawesome/solid/envelope
+      link: mailto:seuemail@exemplo.com
+  footer: 'Criado pela Comunidade TILabs com ❤️ usando MkDocs'
 nav:
-  - 'Home': index.md
-  - 'SRE':
+  - Home: index.md
+  - SRE:
       - '[base] SRE I': sre/sre1.md
       - '[base] SRE II': sre/sre2.md
       - '[base] SRE III': sre/sre3.md
-  - 'Especialista':
+  - Especialista:
       - 'Senior SRE': sre/senior_sre.md
       - 'Staff SRE': sre/staff_sre.md
