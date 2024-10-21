@@ -8,6 +8,8 @@ theme:
     - navigation.tabs
     - navigation.top
     - toc.integrate
+    - search.highlight  # Realçar termos na pesquisa
+    - search.suggest    # Sugestões de pesquisa
 extra:
   social:
     - icon: fontawesome/brands/github
